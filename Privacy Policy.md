@@ -14,7 +14,7 @@ We get that legal documents can be overwhelming and boring, so we've tried our b
 
 Your privacy is very important to us, and we will ensure protecting your privacy when using our services.
 
-**Revolt** is an open-source project (source code is available on our at [GitLab](https://gitlab.insrt.uk/revolt)), and we respect our user's privacy while remaining transparent with our users. We only collect limited data from our users that is absolutely necessary.
+**Revolt** is an open-source project (source code is available on our [GitLab](https://gitlab.insrt.uk/revolt)), and we respect our user's privacy while remaining transparent with our users. We only collect limited data from our users that is absolutely necessary.
 
 - **Account Information**: We collect data from our users when they register for an account on Revolt, such as: the registered e-mail address, hashed password, and chosen username.
 - **Servers and Groups**: If you create or join a group/server on Revolt, we collect and store the names of the group/server to provide the service.
