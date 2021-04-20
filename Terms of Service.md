@@ -1,4 +1,4 @@
-## Effective: Date this ToU has been published.
+> This document is effective as of publish.
 
 *Last updated: 20. April, 2021*
 

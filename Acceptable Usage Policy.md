@@ -1,3 +1,5 @@
+*Last updated: 20. April 2021*
+
 # Acceptable Usage Policy
 
 This **AUP** applies to the official instance of REVOLT available at [revolt.chat](http://revolt.chat), self-hosted instances may choose to adopt this AUP if they wish.
