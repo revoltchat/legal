@@ -1,4 +1,4 @@
-> This document is effective as of publish.
+> This document is effective as of its publish date.
 
 *Last updated: 20. April, 2021*
 
@@ -29,7 +29,7 @@ Revolt is a chat application that allows you to communicate with other users thr
 
 - You are 13 years of age or older.
 - You have read and understood the Terms and Privacy Policy.
-- You agree to abide by our [Acceptable Usage Policy](https://www.notion.so/Acceptable-Usage-Policy-54882a5a807b4122a564144bca6491eb) .
+- You agree to abide by our [Acceptable Usage Policy](https://revolt.chat/aup).
 
 The Terms are subject to change at any time, we will always notify you up to 30 days in advance when we make changes.
 

@@ -1,4 +1,4 @@
-> This document is effective as of publish.
+> This document is effective as of its publish date.
 
 *Last updated: 20. April 2021*
 
