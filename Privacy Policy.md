@@ -30,14 +30,14 @@ Furthermore, we may collect analytical data through [Plausible](https://plausibl
 
 This data is **fully anonymous** (which means no cookies or personal data are stored), and is only used to improve our services.
 
-In order to protect our service from potential attacks and spam, we utilise the hCaptcha anti-bot service, read the [footnote](#hCaptcha) for more information on what and when data is collected. We chose hCaptcha as it actively works to protect our users' data.
+In order to protect our service from potential attacks and spam, we utilise the hCaptcha anti-bot service, read the [footnote](#hcaptcha) for more information on what and when data is collected. We chose hCaptcha as it actively works to protect our users' data.
 
 ### Who is this information shared with?
 
 We will NEVER sell your data to any third-parties, although we use certain service providers to process your data, such as:
 
 - [Scaleway](https://www.scaleway.com/en/), provides us with cloud servers used to host our voice channels. Voice information is processed on their cloud servers but no actual personal information or data is shared with Scaleway.
-- [hCaptcha](https://hcaptcha.com), provides us with the tools necessary to stop abuse of our platform. [See footnote.](#hCaptcha)
+- [hCaptcha](https://hcaptcha.com), provides us with the tools necessary to stop abuse of our platform. [See footnote.](#hcaptcha)
 
 *Law & Order: We may disclose your information to third parties only if such disclosure is absolutely necessary to comply with a valid legal process, protect any person from death or serious injury, prevent fraud or abuse, or protect our rights, property, safety and interest*.
 
