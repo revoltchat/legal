@@ -1,6 +1,6 @@
-> This document is effective as of its publish date.
-
 *Last updated: 20. April 2021*
+
+# Privacy Policy
 
 *Note: Please be aware that only our Terms of Service and Privacy Policy in English are legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents.*
 
