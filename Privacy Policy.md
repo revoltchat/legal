@@ -28,7 +28,7 @@ Furthermore, we may collect analytical data through [Plausible](https://plausibl
 - The website you visited [revolt.chat](http://revolt.chat) from
 - Error stack trace
 
-This data is **fully anonymous** (which means no cookies or personal data is stored)**,** and is only used to improve our services.
+This data is **fully anonymous** (which means no cookies or personal data are stored), and is only used to improve our services.
 
 In order to protect our service from potential attacks and spam, we utilise the hCaptcha anti-bot service, read the [footnote](#hCaptcha) for more information on what and when data is collected. We chose hCaptcha as it actively works to protect our users' data.
 
