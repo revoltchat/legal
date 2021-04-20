@@ -2,9 +2,9 @@
 
 *Last updated: 20. April, 2021*
 
-*Note: Please be aware that only our Terms of Use and Privacy Policy in English are legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents. (View original translation button)*
+*Note: Please be aware that only our Terms of Service and Privacy Policy in English are legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents. (View original translation button)*
 
-This Terms of Use document applies to the official instance of Revolt, available at [revolt.chat](https://revolt.chat). Self-hosted instances may choose to adopt this document if they wish.
+This Terms of Service document applies to the official instance of Revolt, available at [revolt.chat](https://revolt.chat). Self-hosted instances may choose to adopt this document if they wish.
 
 ### **Introduction**
 
@@ -14,7 +14,7 @@ We get that legal documents can be overwhelming and boring, so we've tried our b
 
 Throughout this document, we will use certain terminlogy to refer to things specific to us, so let's establish what everything means:
 
-- **Terms** – the Terms of Use, a legally binding agreement between Us and You ("Terms", "Terms of Use")
+- **Terms** – the Terms of Service, a legally binding agreement between Us and You ("Terms", "Terms of Service")
 - **You** – the user ("you", "your" or "user")
 - **Revolt** – the service provided by us ("Revolt", "Platform", "Service" or "Application")
 - **Revolt Communications** – our company ("us", "we", or "our")
@@ -39,7 +39,7 @@ You are responsible for maintaining the confidentiality of your account and pass
 
 ## 2. Termination
 
-We may terminate or suspend access to our services immediately, without prior notice or liability, for any reason whatsoever, including but not limited to breaching our Terms of Use.
+We may terminate or suspend access to our services immediately, without prior notice or liability, for any reason whatsoever, including but not limited to breaching our Terms of Service.
 
 ## 3. Community Guidelines
 
@@ -61,10 +61,10 @@ Revolt is provided "as is" with no warranty and/or liability for any outcomes of
 
 ## 7. Changes
 
-As we keep improving our services, we may make changes to our Terms of Use in the future if needed. We will notify you of any changes made to our Privacy Policy by specifying the date.
+As we keep improving our services, we may make changes to our Terms of Service in the future if needed. We will notify you of any changes made to our Privacy Policy by specifying the date.
 
-You are advised to review our Terms of Use periodically for any changes. Such changes to our Terms of Use are effective when they are posted on this page.
+You are advised to review our Terms of Service periodically for any changes. Such changes to our Terms of Service are effective when they are posted on this page.
 
 ## Contact Us
 
-Feel free to contact us if you have any questions regarding our Terms of Use or any of the above statements. You may contact us as follows: revolt@insrt.uk
+Feel free to contact us if you have any questions regarding our Terms of Service or any of the above statements. You may contact us as follows: revolt@insrt.uk
