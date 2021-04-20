@@ -2,7 +2,7 @@
 
 *Last updated: 20. April, 2021*
 
-*Note: Please be aware that only our Terms of Service and Privacy Policy in English are legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents. (View original translation button)*
+*Note: Please be aware that only our Terms of Service and Privacy Policy in English are legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents.*
 
 This Terms of Service document applies to the official instance of Revolt, available at [revolt.chat](https://revolt.chat). Self-hosted instances may choose to adopt this document if they wish.
 
