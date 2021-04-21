@@ -38,6 +38,7 @@ We will NEVER sell your data to any third-parties, although we use certain servi
 
 - [Scaleway](https://www.scaleway.com/en/), provides us with cloud servers used to host our voice channels. Voice information is processed on their cloud servers but no actual personal information or data is shared with Scaleway.
 - [hCaptcha](https://hcaptcha.com), provides us with the tools necessary to stop abuse of our platform. [See footnote.](#hcaptcha)
+- [Cloudflare](https://cloudflare.com), provides us with DDoS mitigation and content delivery acceleration.
 
 *Law & Order: We may disclose your information to third parties only if such disclosure is absolutely necessary to comply with a valid legal process, protect any person from death or serious injury, prevent fraud or abuse, or protect our rights, property, safety and interest*.
 
