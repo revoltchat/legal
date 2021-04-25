@@ -52,7 +52,7 @@ If you wish to request deletion of any information stored on our servers, includ
 
 ### Our commitment to children's privacy
 
-We follow [The Children’s Online Privacy Protection Act (“COPPA”)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), which requires online service providers to obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13 years of age. This applies to every user of our platform, regardless of different consent laws in different countries. We do not knowingly collect or solicit personally identifiable information from children under 13 years of age. If we learn we have collected personal information from a child under 13 years of age, we will immediately delete that information from our servers. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at [revolt+contact@insrt.uk](mailto:revolt+contact@insrt.uk)
+We follow [The Children’s Online Privacy Protection Act (“COPPA”)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), which requires online service providers to obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13 years of age. This applies to every user of our platform, regardless of different consent laws in different countries. We do not knowingly collect or solicit personally identifiable information from children under 13 years of age. If we learn we have collected personal information from a child under 13 years of age, we will immediately delete that information from our servers. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personal information to us please contact us at [contact@revolt.chat](mailto:contact@revolt.chat)
 
 ### Changes to our Privacy Policy
 
@@ -62,7 +62,7 @@ You are advised to review our Privacy Policy periodically for any changes. Such 
 
 ### Contact Us
 
-Feel free to contact us if you have any questions regarding this Privacy Policy or any of the above statements. You may contact us as follows: [revolt+contact@insrt.uk](mailto:revolt+contact@insrt.uk)
+Feel free to contact us if you have any questions regarding this Privacy Policy or any of the above statements. You may contact us as follows: [contact@revolt.chat](mailto:contact@revolt.chat)
 
 ### hCaptcha
 
