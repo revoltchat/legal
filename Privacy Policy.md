@@ -20,15 +20,16 @@ Your privacy is very important to us, and we will ensure protecting your privacy
 - **Servers and Groups**: If you create or join a group/server on Revolt, we collect and store the names of the group/server to provide the service.
 - **Self-hosted instances**: Since self-hosted instances aren't operated by us, we cannot enforce our own Privacy Policy, Acceptable Usage Policy or Terms of Service there. Please visit self-hosted instances at your own discretion.
 
-Furthermore, we may collect analytical data through [Plausible](https://plausible.io/) and [Sentry](https://sentry.io/welcome/) for statistical and error reporting purposes, which is, but not limited to:
+### Analytics
+
+Furthermore, we may collect analytical data for our website (revolt.chat) through [Plausible](https://plausible.io/) for statistical purposes, which is, but not limited to:
 
 - Your country
 - Device (model & name)
 - Browser and OS (you are using)
 - The website you visited [revolt.chat](http://revolt.chat) from
-- Error stack trace
 
-This data is **fully anonymous** (which means no cookies or personal data are stored), and is only used to improve our services.
+This data is **fully anonymous** (which means no cookies or personal data are stored), and is only used to improve our services. This data is only collected on our website and doesn't affect the client.
 
 In order to protect our service from potential attacks and spam, we utilise the hCaptcha anti-bot service, read the [footnote](#hcaptcha) for more information on what and when data is collected. We chose hCaptcha as it actively works to protect our users' data.
 
