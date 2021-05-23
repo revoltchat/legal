@@ -47,7 +47,7 @@ We will NEVER sell your data to any third-parties, although we use certain servi
 
 Since this is an open-source project, we have team members across Europe and North America. Your information is stored on our first-party servers in the United Kingdom.
 
-If you wish to request deletion of any information stored on our servers, including any requests under GDPR or DMCA, please contact us at revolt@insrt.uk.
+If you wish to request deletion of any information stored on our servers, including any requests under GDPR or DMCA, please contact us at [urgent@revolt.chat](mailto:urgent@revolt.chat).
 
 *Exceptions to third-parties service providers which is used to process your data as mentioned above.*
 

@@ -67,4 +67,4 @@ You are advised to review our Terms of Service periodically for any changes. Suc
 
 ## Contact Us
 
-Feel free to contact us if you have any questions regarding our Terms of Service or any of the above statements. You may contact us as follows: revolt@insrt.uk
+Feel free to contact us if you have any questions regarding our Terms of Service or any of the above statements. You may contact us as follows: [contact@revolt.chat](mailto:contact@revolt.chat)

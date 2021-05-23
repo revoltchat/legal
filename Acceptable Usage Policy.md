@@ -34,7 +34,7 @@ Engaging in any of the following will result in **immediate account termination*
 - Sharing any content or imagery illegal within the European Union, we don't want you or us to get into any legal trouble, stay in line by not engaging in illegal activity content such as, but not limited to, sharing pornography depicting minors, sharing revenge pornography, selling or facilitating the usage of drugs, extortion or blackmail.
 - Sharing any content promoting, encouraging or glorifying self-harm or suicide. This includes any content that pushes people to: cut or injure themselves; embrace eating disorders such as anorexia or bulimia; or commit suicide as opposed to referring people to the correct treatment and help. If you notice someone in need of urgent help, contact your local authorities.
 - Attempts to hack or otherwise gain unauthorised access to our service. For example, accessing another person's account without permission, or attempting to steal another person's account. This also includes attempts in order to gain access to our back end networks.
-**Please contact us ahead of time for permission to test our networks, [security@revolt.chat][mailto:security@revolt.chat].**
+**Please contact us ahead of time for permission to test our networks, [security@revolt.chat](mailto:security@revolt.chat).**
 - Distributing malware such as viruses, trojans, worms, etc. Any software designed with malicious intent to attack another person or to steal their data is not tolerated.
 - Sharing content that is designed to harass or degrade another person, any content that can directly threaten someone's physical, mental or financial state, this includes death threats, doxxing (sharing personal information), or ignoring one's privacy.
 
