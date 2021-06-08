@@ -31,7 +31,7 @@ Revolt is a chat application that allows you to communicate with other users thr
 - You have read and understood the Terms and Privacy Policy.
 - You agree to abide by our [Acceptable Usage Policy](https://revolt.chat/aup).
 
-The Terms are subject to change at any time, we will always notify you up to 30 days in advance when we make changes.
+The Terms are subject to change at any time, we will always notify you at least 30 days in advance when we make changes.
 
 ## 1. **Accounts**
 
