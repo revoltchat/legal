@@ -20,24 +20,12 @@ Your privacy is very important to us, and we will ensure protecting your privacy
 - **Servers and Groups**: If you create or join a group/server on Revolt, we collect and store the names of the group/server to provide the service.
 - **Self-hosted instances**: Since self-hosted instances aren't operated by us, we cannot enforce our own Privacy Policy, Acceptable Usage Policy or Terms of Service there. Please visit self-hosted instances at your own discretion.
 
-### Analytics
-
-Furthermore, we may collect analytical data for our website (revolt.chat) through [Plausible](https://plausible.io/) for statistical purposes, which is, but not limited to:
-
-- Your country
-- Device (model & name)
-- Browser and OS (you are using)
-- The website you visited [revolt.chat](http://revolt.chat) from
-
-This data is **fully anonymous** (which means no cookies or personal data are stored), and is only used to improve our services. This data is only collected on our website and doesn't affect the client.
-
-In order to protect our service from potential attacks and spam, we utilise the hCaptcha anti-bot service, read the [footnote](#hcaptcha) for more information on what and when data is collected. We chose hCaptcha as it actively works to protect our users' data.
-
 ### Who is this information shared with?
 
 We will NEVER sell your data to any third-parties, although we use certain service providers to process your data, such as:
 
 - [Scaleway](https://www.scaleway.com/en/), provides us with cloud servers used to host our voice channels. Voice information is processed on their cloud servers but no actual personal information or data is shared with Scaleway.
+- [Vercel](https://vercel.com), provides us with cloud services to deploy and run the REVOLT frontend. No actual personal information or data is shared with Vercel.
 - [hCaptcha](https://hcaptcha.com), provides us with the tools necessary to stop abuse of our platform. [See footnote.](#hcaptcha)
 - [Cloudflare](https://cloudflare.com), provides us with DDoS mitigation and content delivery acceleration.
 
