@@ -1,4 +1,4 @@
-*Last updated: 12. September 2021*
+*Last updated: 12. November 2021*
 
 # Acceptable Usage Policy
 
@@ -24,7 +24,7 @@ Engaging in any of the following actions will result in a warning and may lead t
 - Using REVOLT with malicious intent, in a way that is not reasonable under normal usage, in order to outsource computing and/or storage resources to our servers, as well as other forms of Denial of Service to our infrastructure.
 - Sharing any type of imagery that depicts real-life violence, gore or animal cruelty. Nobody wants to see this and neither should you. Exception is violence portrayed in media such as movies, games, books, and so forth.
 
-To report any of the above activity, contact us at [report@revolt.chat](mailto:report@revolt.chat).
+To report any of the above activity, contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
 Please note we are *committed to resolving every single report*, please be patient and **do not spam our support team**, we appreciate your concerns and will act upon them.
 
@@ -39,10 +39,10 @@ Engaging in any of the following will result in **immediate account termination*
 - Distributing malware such as viruses, trojans, worms, etc. Any software designed with malicious intent to attack another person or to steal their data is not tolerated.
 - Sharing content that is designed to harass or degrade another person, any content that can directly threaten someone's physical, mental or financial state, this includes death threats, doxxing (sharing personal information), or ignoring one's privacy.
 
-To report any of the above activity, contact us at [urgent@revolt.chat](mailto:urgent@revolt.chat).
+To report any of the above activity, contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
 ### Strikes
 
 Strikes are **irreversible**, but account suspensions can be removed through appeal, but only if you believe that we took the wrong action. There is no point asking to be appealed for breaking the law.
 
-If you would like to appeal, please contact [appeals@revolt.chat](mailto:appeals@revolt.chat).
+If you would like to appeal, please contact [abuse@revolt.chat](mailto:abuse@revolt.chat).
