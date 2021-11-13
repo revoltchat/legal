@@ -1,4 +1,4 @@
-*Last updated: 12. November 2021*
+*Last updated: 13. November 2021*
 
 # Acceptable Usage Policy
 
@@ -16,13 +16,14 @@ Online communities have the potential to change people's lives, we want to encou
 
 ### What We Don't Allow
 
-Engaging in any of the following actions will result in a warning and may lead to either getting a community strike or an account suspension if repeated.
+Engaging in any of the following actions will result in a warning and may lead to having your account suspended.
 
 - Creating accounts to or using your account to send unsolicited advertisements to other people on the platform or to harass other individuals on the platform.
 - Sharing any kind of copyrighted content, or any type of content that violates another person's personal, intellectual property or other rights. This includes any content that would violate the Digital Millennium Copyright Act (DMCA). We respond to DMCA requests as described in our [Terms of Service](https://revolt.chat/terms).
 - Using REVOLT for illegal operation, such as, but not limited to, hacking, cracking or distribution of pirated software, cheats, exploits or hacks for our or another company or person's service.
 - Using REVOLT with malicious intent, in a way that is not reasonable under normal usage, in order to outsource computing and/or storage resources to our servers, as well as other forms of Denial of Service to our infrastructure.
 - Sharing any type of imagery that depicts real-life violence, gore or animal cruelty. Nobody wants to see this and neither should you. Exception is violence portrayed in media such as movies, games, books, and so forth.
+- The selling and buying of user accounts is prohibited.
 
 To report any of the above activity, contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
