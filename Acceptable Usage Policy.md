@@ -1,4 +1,4 @@
-*Last updated: 12. November 2021*
+*Last updated: 13. November 2021*
 
 # Acceptable Usage Policy
 
@@ -23,6 +23,7 @@ Engaging in any of the following actions will result in a warning and may lead t
 - Using REVOLT for illegal operation, such as, but not limited to, hacking, cracking or distribution of pirated software, cheats, exploits or hacks for our or another company or person's service.
 - Using REVOLT with malicious intent, in a way that is not reasonable under normal usage, in order to outsource computing and/or storage resources to our servers, as well as other forms of Denial of Service to our infrastructure.
 - Sharing any type of imagery that depicts real-life violence, gore or animal cruelty. Nobody wants to see this and neither should you. Exception is violence portrayed in media such as movies, games, books, and so forth.
+- The selling and buying of user accounts is prohibited and may be punished by suspension.  
 
 To report any of the above activity, contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
