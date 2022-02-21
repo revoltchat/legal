@@ -18,7 +18,7 @@ Online communities have the potential to change people's lives, so we want to en
 
 Engaging in any of the following actions will result in a warning and may lead to having your account suspended.
 
-- Creating accounts soley to or using your account to send unsolicited advertisements to other people on the platform or to harass other individuals on the platform.
+- Creating accounts or using existing accounts to send unsolicited advertisements to other people on the platform or to harass other individuals on the platform.
 - Sharing any kind of copyrighted content, or any type of content that violates another person's personal, intellectual property or other rights. This includes any content that would violate the Digital Millennium Copyright Act (DMCA). We respond to DMCA requests as described in our [Terms of Service](https://revolt.chat/terms).
 - Using Revolt for illegal operations. These include, but are not limited to, hacking, the cracking or distribution of pirated software, cheats, exploits or hacks for our or another company or person's service.
 - Using Revolt with malicious intent, in a way that is not reasonable under normal usage, in order to outsource computing and/or storage resources to our servers, as well as other forms of Denial of Service to our infrastructure.
@@ -38,7 +38,7 @@ Engaging in any of the following will result in an **immediate account terminati
 - Attempts to hack or otherwise gain unauthorised access to our service - for example, accessing another person's account without permission, or attempting to steal another person's account. This also includes attempts to gain access to our backend networks.
 **Please contact us ahead of time for permission to test our networks by emailing [security@revolt.chat](mailto:security@revolt.chat).**
 - Distributing malware such as viruses, trojans, worms, etc. Any software designed with malicious intent to attack another person or to steal their data is not tolerated.
-- Sharing content that is designed to harass or degrade another person, or that can directly threaten someone's physical, mental or financial state. This includes death threats, doxxing (sharing personal information without permission), or ignoring a person's privacy.
+- Sharing content that is designed to harass or degrade someone else, or that can directly threaten someone's physical, mental or financial state. This includes death threats, doxxing (sharing personal information without permission), or ignoring someone's privacy.
 
 To report any of the above activity, contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
