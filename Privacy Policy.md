@@ -24,8 +24,9 @@ Your privacy is very important to us, and we will ensure protecting your privacy
 
 We will NEVER sell your data to any third-parties, although we use certain service providers to process your data, such as:
 
+- [Hetzner](https://hetzner.com), provides us with cloud services to run the Revolt backend and database.
+- [Vercel](https://vercel.com), provides us with cloud services to deploy and run parts of the Revolt frontend. No actual personal information or data is shared with Vercel.
 - [Scaleway](https://www.scaleway.com/en/), provides us with cloud servers used to host our voice channels. Voice information is processed on their cloud servers but no actual personal information or data is shared with Scaleway.
-- [Vercel](https://vercel.com), provides us with cloud services to deploy and run the REVOLT frontend. No actual personal information or data is shared with Vercel.
 - [hCaptcha](https://hcaptcha.com), provides us with the tools necessary to stop abuse of our platform. [See footnote.](#hcaptcha)
 - [Cloudflare](https://cloudflare.com), provides us with DDoS mitigation and content delivery acceleration.
 
@@ -33,7 +34,7 @@ We will NEVER sell your data to any third-parties, although we use certain servi
 
 ### Where is my information stored?
 
-Since this is an open-source project, we have team members across Europe and North America. Your information is stored on our first-party servers in Germany.
+Since this is an open-source project, we have team members across Europe and North America. Your information is currently stored on first-party servers in Germany and your media is stored on first-party servers in Lithuania.
 
 If you wish to request deletion of any information stored on our servers, including any requests under GDPR or DMCA, please contact us at [urgent@revolt.chat](mailto:urgent@revolt.chat).
 
