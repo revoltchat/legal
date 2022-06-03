@@ -1,4 +1,4 @@
-*Last updated: 3rd June 2022*
+*Last updated: 03. June, 2022*
 
 # Acceptable Usage Policy
 

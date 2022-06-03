@@ -1,4 +1,4 @@
-*Last updated: 02. May 2021*
+*Last updated: 03. June, 2022*
 
 # Privacy Policy
 
