@@ -51,7 +51,7 @@ If you would like to appeal a suspension, please contact [abuse@revolt.chat](mai
 
 ### Jurisdiction
 
-We abide by laws within the following jursdictions:
+We abide by laws within the following jurisdictions:
 
 | Jurisdiction     | Reason                            |
 | ---------------- | --------------------------------- |
