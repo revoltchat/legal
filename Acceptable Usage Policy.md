@@ -39,7 +39,7 @@ Engaging in any of the following will result in **immediate account termination*
 - **Sharing any content promoting, encouraging or glorifying self-harm or suicide**. This includes any content that pushes people to cut or injure themselves; that embraces eating disorders such as anorexia or bulimia; or that encourages people to commit suicide as opposed to referring them to the correct treatment and help. If you notice someone in need of urgent help, _please contact your local authorities_.
 - **Attempts to hack or otherwise gain unauthorised access to our service**. For example, accessing another person's account without permission, or attempting to steal another person's account. This also includes attempts to gain access to our backend networks. _Please contact us ahead of time for permission to test our networks by emailing [security@revolt.chat](mailto:security@revolt.chat)._
 - **Distributing malware such as viruses, trojans, worms, etc**. Any software designed with malicious intent to attack another person or to steal their data is not tolerated.
-- **Sharing content that is designed to harass or degrade someone else, or that can directly threaten someone's physical, mental or financial state**. This includes death threats, doxxing (sharing personal information without permission), or ignoring someone's privacy.
+- **Sharing content that is designed to harass or degrade someone else, or that can directly threaten someone's physical, mental or financial state**. This includes death threats, doxing (sharing personal information without permission), or ignoring someone's privacy.
 
 To report any of the above activity please use the in-app reporting system, otherwise contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
