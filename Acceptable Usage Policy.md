@@ -25,7 +25,7 @@ Engaging in any of the following actions will result in a warning and may lead t
 - **The selling and buying of Revolt accounts**.
 - **Engaging in hate speech or other hateful conduct**. For this purpose, we define hate speech as any form of expression that attacks, promotes harm, or promotes hatred against other people based on their protected characteristics.
 
-  Protected characteristics: age; caste; color; disability; ethnicity; family responsibilities; gender; gender identity; housing status; national origin; race; refugee or immigration status; religious affiliation; serious illness; sex; sexual orientation; socioeconomic class and status; source of income; status as a victim of domestic violence, sexual violence, or stalking; and weight and size
+  We define the following as protected characteristics: age; caste; color; disability; ethnicity; family responsibilities; gender; gender identity; housing status; national origin; race; refugee or immigration status; religious affiliation; serious illness; sex; sexual orientation; socioeconomic class and status; source of income; status as a victim of domestic violence, sexual violence, or stalking; and weight and size.
 
 To report any of the above activity please use the in-app reporting system, otherwise contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
