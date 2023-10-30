@@ -22,7 +22,7 @@ Engaging in any of the following actions will result in a warning and may lead t
 - **Sharing any type of content that violates another person's intellectual property or other rights**. This includes any content that would violate the Digital Millennium Copyright Act (DMCA). We respond to DMCA requests as described in our [Terms of Service](https://revolt.chat/terms). This includes, but is not limited to, hacking, the cracking or distribution of pirated software, cheats, exploits or hacks for our or another company or person's service.
 - **Abusing server resources**. Using Revolt with malicious intent, in a way that is not reasonable under normal usage, in order to outsource computing and/or storage resources to our servers, as well as other forms of Denial of Service to our infrastructure.
 - **Sharing any type of imagery that depicts real-life violence, gore or animal cruelty**. However, an exception to this rule has been made for violence portrayed in media (including movies, games, books and such).
-- **The selling and buying of Revolt accounts is prohibited**.
+- **The selling and buying of Revolt accounts**.
 - **Engaging in hate speech or other hateful conduct**. For this purpose, we define hate speech as any form of expression that attacks, promotes harm, or promotes hatred against other people based on their protected characteristics.
 
   Protected characteristics: age; caste; color; disability; ethnicity; family responsibilities; gender; gender identity; housing status; national origin; race; refugee or immigration status; religious affiliation; serious illness; sex; sexual orientation; socioeconomic class and status; source of income; status as a victim of domestic violence, sexual violence, or stalking; and weight and size
