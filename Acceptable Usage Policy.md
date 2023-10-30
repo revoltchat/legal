@@ -27,7 +27,7 @@ Engaging in any of the following actions will result in a warning and may lead t
 
   We define the following as protected characteristics: age; caste; color; disability; ethnicity; family responsibilities; gender; gender identity; housing status; national origin; race; refugee or immigration status; religious affiliation; serious illness; sex; sexual orientation; socioeconomic class and status; source of income; status as a victim of domestic violence, sexual violence, or stalking; and weight and size.
 
-To report any of the above activity please use the in-app reporting system, otherwise contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
+To report any of the above activity, please use the in-app reporting system. If you cannot use the in-app reporting system for any reason, please contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
 Please note we are _committed to resolving every single report_. Please be patient and **do not spam our support team** - we appreciate your concerns and will act upon them.
 
