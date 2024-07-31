@@ -1,6 +1,6 @@
-_Last updated: 15. March, 2023_
+_Last updated: 31. July, 2024_
 
-_Effective: 15. April, 2023_
+<!-- _Effective: 31. July, 2024_ -->
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Your privacy is very important to us, and we will ensure protecting your privacy
 - **Servers and Groups**: If you create or join a group/server on Revolt, we collect and store the names of the group/server to provide the service.
 - **Your Content**: To provide the service, we must store your messages and any content such as attachments and reactions.
 - **Legal Responsibility**: To ensure that users satisfy the legal age requirement to use the platform and to provide additional safety for minors, we must collect user's date of birth.
-- **Abuse Prevention**: To prevent our service from being attacked and protect your account, we collect your IP address, short device description for each session, and also temporarily store additional device information after initial registration.
+- **Abuse Prevention**: To prevent our service from being attacked and protect your account, we collect your IP address and a short device description for each session, and also temporarily store some device information after initial registration.
 - **Self-hosted instances**: Since self-hosted instances aren't operated by us, we cannot enforce our own Privacy Policy, Acceptable Usage Policy or Terms of Service there. Please visit self-hosted instances at your own discretion.
 
 ### Who is this information shared with?
@@ -53,7 +53,7 @@ We do not knowingly collect or solicit personally identifiable information from 
 
 ### Your rights under the GDPR
 
-The data controller of your personal data is Pawel Makles, an individual who operates Revolt as a sole proprietorship. You can contact him at [data-controller@revolt.chat](mailto:data-controller@revolt.chat). The data controller is responsible for deciding how and why we process your personal data.
+The data controller of your personal data is Pawel Makles, an individual who operates Revolt as a sole proprietorship. You can contact him at [dpo@revolt.chat](mailto:dpo@revolt.chat). The data controller is responsible for deciding how and why we process your personal data.
 
 The legal basis for processing your personal data is based on your consent, which you give us when you sign up for Revolt and agree to our Terms of Service and Privacy Policy. You can withdraw your consent at any time by deleting your account or contacting us. We may also process your personal data to comply with our legal obligations, to protect our legitimate interests or the interests of others.
 
@@ -63,7 +63,7 @@ Currently, you may request a copy of all of your data by contacting us at [conta
 
 ### Changes to our Privacy Policy
 
-As we keep improving our services, we may update our Privacy Policy in the future if needed. We will notify you of any changes made to our Privacy Policy by specifying the date.
+As we keep improving our services, we may update our Privacy Policy in the future if needed. We will notify you of any changes made to our Privacy Policy.
 
 You are advised to review our Privacy Policy periodically for any changes. Such changes to our Privacy Policy are effective when they are posted on this page.
 

@@ -1,6 +1,6 @@
-_Last updated: 15. March, 2023_
+_Last updated: 31. July, 2024_
 
-_Effective: 15. April, 2023_
+<!-- _Effective: 31. July, 2024_ -->
 
 # Terms of Service
 
