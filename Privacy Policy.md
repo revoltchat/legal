@@ -29,9 +29,8 @@ Your privacy is very important to us, and we will ensure protecting your privacy
 
 We will NEVER sell your data to any third-parties, although we use certain service providers to process your data, such as:
 
-- [Hetzner](https://hetzner.com), provides us with cloud services to run the Revolt backend and database.
-- [Vercel](https://vercel.com), provides us with cloud services to deploy and run parts of the Revolt frontend. No actual personal information or data is shared with Vercel.
-- [Scaleway](https://www.scaleway.com/en/), provides us with cloud servers used to host our voice channels. Voice information is processed on their cloud servers but no actual personal information or data is shared with Scaleway.
+- [Hetzner](https://hetzner.com), provides us with cloud services to run Revolt.
+- [Backblaze](https://backblaze.com), provides us with cloud services to store media at scale.
 - [hCaptcha](https://hcaptcha.com), provides us with the tools necessary to stop abuse of our platform. [See footnote.](#hcaptcha)
 - [Cloudflare](https://cloudflare.com), provides us with DDoS mitigation and content delivery acceleration.
 

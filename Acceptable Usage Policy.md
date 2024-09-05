@@ -145,9 +145,9 @@ In certain cases, we may take action based on off-platform behaviour, particular
 
 We abide by laws within the following jurisdictions:
 
-| Jurisdiction     | Reason                            |
-| ---------------- | --------------------------------- |
-| United Kingdom   | Service operator                  |
-| Germany, Finland | Data storage                      |
-| Lithuania        | Media storage                     |
-| European Union   | Encompasses our area of operation |
+| Jurisdiction                  | Reason                            |
+| ----------------------------- | --------------------------------- |
+| United Kingdom                | Service operator                  |
+| Germany, Finland, Netherlands | Data storage                      |
+| Lithuania                     | Media storage                     |
+| European Union                | Encompasses our area of operation |
