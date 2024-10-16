@@ -115,13 +115,13 @@ To ensure users have equal opportunity to use the service and are not taken adva
 
   Using Revolt with malicious intent, in a way that is not reasonable under normal usage, in order to outsource computing and/or storage resources to our servers, as well as other forms of Denial of Service to our infrastructure.
 
-- **Usage of user bots**
+- **Automation of user actions**
 
-  Automated activity from user accounts that is not initiated by the user in question is forbidden.
+  Automated activity from user accounts that is performed without explicit, manual initiation by the account holder is forbidden.
 
-- **Unconsenual gathering of personally identifiable information**
+- **Non-consensual gathering of personally identifiable information**
 
-  We do not allow any gathering of PII without end-user consent. This includes but is not limited to automated scraping of messages, member lists, and other personally identifiable information gathered without consent of the users in the dataset in question.
+  We do not permit the gathering of any personally identifiable information (PII) without end-user consent. This includes, but is not limited to, the automated scraping of messages, member lists, and user profiles without explicit permission from the users whose data is being collected.
 
 - **Misleading the support team**
 
