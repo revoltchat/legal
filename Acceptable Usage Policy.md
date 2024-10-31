@@ -1,10 +1,6 @@
-_Last updated: 31. July, 2024_
+_Last updated: 01. Nov, 2024_
 
-# Acceptable Usage Policy
-
-This **Acceptable Usage Policy** (**AUP**) applies to the official instance of Revolt available at [revolt.chat](http://revolt.chat). Self-hosted instances may choose to adopt this AUP if they wish.
-
-## Community Guidelines
+# Community Guidelines
 
 **Revolt** can cater to your community, raid guild, study group, and anything in-between. We encourage you to:
 
@@ -14,7 +10,7 @@ This **Acceptable Usage Policy** (**AUP**) applies to the official instance of R
 
 Online communities have the potential to change people's lives, so we want to encourage a positive environment for anyone willing to join.
 
-### Keeping You Safe
+## Keeping You Safe
 
 To ensure users stay safe on the platform, we explicitly disallow:
 
@@ -79,7 +75,7 @@ To ensure users stay safe on the platform, we explicitly disallow:
 
   Sexually explicit content must be properly age-gated and should not be shared in unrestricted areas of the platform.
 
-### Keeping It Fair
+## Keeping It Fair
 
 To ensure users have equal opportunity to use the service and are not taken advantage of, we disallow:
 
@@ -127,21 +123,21 @@ To ensure users have equal opportunity to use the service and are not taken adva
 
   Providing false information or making fraudulent reports to our support team is prohibited.
 
-### Reporting Violations
+## Reporting Violations
 
 To report any of the above activity, please use the in-app reporting system. If you cannot use the in-app reporting system for any reason, please contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
-### Strikes and Suspensions
+## Strikes and Suspensions
 
 Violations of this AUP, or other platform terms, may result in strikes against your account. Strikes are irreversible. Account suspensions can be removed through a successful appeal, but only if you believe that we took the wrong action. There is no point asking to be appealed for breaking the law.
 
 If you wish to appeal a suspension, please contact [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
-### Off-Platform Behavior
+## Off-Platform Behavior
 
 In certain cases, we may take action based on off-platform behaviour, particularly when it involves severe violations of our policies or legal issues.
 
-### Jurisdiction
+## Jurisdiction
 
 We abide by laws within the following jurisdictions:
 

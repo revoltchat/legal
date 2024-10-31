@@ -1,6 +1,4 @@
-_Last updated: 31. July, 2024_
-
-<!-- _Effective: 31. July, 2024_ -->
+_Last updated: 01. Nov, 2024_
 
 # Privacy Policy
 

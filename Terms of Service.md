@@ -1,6 +1,4 @@
-_Last updated: 31. July, 2024_
-
-<!-- _Effective: 31. July, 2024_ -->
+_Last updated: 01. Nov, 2024_
 
 # Terms of Service
 
@@ -30,7 +28,7 @@ Revolt is a chat application that allows you to communicate with other users thr
 
 - You are of the minimum age to use the service, [we maintain a list of age requirements here](https://support.revolt.chat/kb/safety/minimum-age-guidelines).
 - You have read and understood the Terms and Privacy Policy.
-- You agree to abide by our [Acceptable Usage Policy](https://revolt.chat/aup).
+- You agree to abide by our [Community Guidelines](https://revolt.chat/aup).
 
 The Terms are subject to change at any time, we will always notify you an adequete amount of time in advance when we make changes.
 
@@ -48,11 +46,11 @@ We may terminate or suspend access to our services immediately, without prior no
 
 ## 3. Community Guidelines
 
-Our current community guidelines can be found at [Acceptable Usage Policy](https://revolt.chat/aup).
+Our current community guidelines can be found here: https://revolt.chat/aup
 
 ## 4. Content
 
-Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are therefore responsible for the content that you post or share through our service. The type of content that is allowed or disallowed on our platform is available on our [Acceptable Usage Policy](https://revolt.chat/aup).
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are therefore responsible for the content that you post or share through our service. The type of content that is allowed or disallowed on our platform is available in our Community Guidelines.
 
 ## 5. Other linked websites
 
@@ -62,7 +60,7 @@ We have no control over and assume no responsibility for the content, privacy po
 
 ## 6. Warranty
 
-Revolt is provided "as is" with no warranty and/or liability for any outcomes of using our service. Revolt is not responsible for any content shared on self-hosted instances, as outlined in our [Acceptable Usage Policy](https://revolt.chat/aup).
+Revolt is provided "as is" with no warranty and/or liability for any outcomes of using our service. Revolt is not responsible for any content shared on self-hosted instances.
 
 ## 7. Changes
 
