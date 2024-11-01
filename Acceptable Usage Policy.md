@@ -99,13 +99,9 @@ To ensure users have equal opportunity to use the service and are not taken adva
 
   Attempting to circumvent bans or other moderation actions by creating new accounts or using alternative methods to access the platform is prohibited.
 
-- **Engaging in hacking**
-
-  Any attempt to compromise the security of our platform or its users, including phishing attacks, distribution or creation of malware, or Denial of Service attacks, is strictly forbidden.
-
 - **Attempts to hack or otherwise gain unauthorised access to our service**
 
-  For example, accessing another person's account without permission, or attempting to steal another person's account. This also includes attempts to gain access to our backend networks. _Please contact us ahead of time for permission to test our networks by emailing [security@revolt.chat](mailto:security@revolt.chat)._
+  Any attempt to compromise the security of our platform or its users, including but not limited to phishing attacks, unauthorised access to user accounts, distribution or creation of malware, or Denial of Service attacks, is strictly forbidden. This also includes attempts to gain access to our backend networks. _Please contact us ahead of time for permission to test our networks by emailing [security@revolt.chat](mailto:security@revolt.chat)._
 
 - **Abusing our server resources**
 
