@@ -45,7 +45,7 @@ To ensure users stay safe on the platform, we explicitly disallow:
 
 - **Promoting off-platform content that violates our acceptable usage policy**
 
-  Sharing links or references to external content with intent to promote content that violates our AUP is not allowed.
+  Sharing links or references to external content with intent to promote content that violates our Community Guidelines is not allowed.
 
 - **Sharing content designed to harass or degrade someone, or that can directly threaten someone's physical, mental, or financial state**
 
@@ -125,7 +125,7 @@ To report any of the above activity, please use the in-app reporting system. If 
 
 ## Strikes and Suspensions
 
-Violations of this AUP, or other platform terms, may result in strikes against your account. Strikes are irreversible. Account suspensions can be removed through a successful appeal, but only if you believe that we took the wrong action. There is no point asking to be appealed for breaking the law.
+Violations of these Community Guidelines, or other platform terms, may result in strikes against your account. Strikes are irreversible. Account suspensions can be removed through a successful appeal, but only if you believe that we took the wrong action. There is no point asking to be appealed for breaking the law.
 
 If you wish to appeal a suspension, please contact [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
