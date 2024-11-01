@@ -141,5 +141,5 @@ We abide by laws within the following jurisdictions:
 | ----------------------------- | --------------------------------- |
 | United Kingdom                | Service operator                  |
 | Germany, Finland, Netherlands | Data storage                      |
-| Lithuania                     | Media storage                     |
+| Lithuania, Netherlands        | Media storage                     |
 | European Union                | Encompasses our area of operation |
