@@ -75,6 +75,11 @@ To ensure users stay safe on the platform, we explicitly disallow:
 
   Sexually explicit content must be properly age-gated and should not be shared in unrestricted areas of the platform.
 
+- **Sharing explicit content of minora**
+
+  Explicit content that includes minors is strictly prohibited and all parties involved will be reported to the authorities.
+  Note that we do not allow cartoon depictions of underage explicit content (e.g. Lolicon).
+
 ## Keeping It Fair
 
 To ensure users have equal opportunity to use the service and are not taken advantage of, we disallow:
